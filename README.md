@@ -1,2 +1,3 @@
-# recommender-systems
-This repo features collaborative filtering, content-based filtering, and hybrid approaches for building recommendation engines.
+# Introduction
+
+This repository contains a collection of resources all pertaining to the topic of recommendation systems. The contents range from discussing the different types of recommendation systems to implementing them in code. Additionally, there are resources and articles covering the theory behind recommendation systems and how they work, as well as the state-of-the-art models and algorithms used in the field. For interest, articles on the ethical implications of recommendation systems and their use in the real world are also included.
