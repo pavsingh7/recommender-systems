@@ -45,3 +45,7 @@ Some popular datasets that have been made available in this repository are:
 - [Million Song Dataset](http://millionsongdataset.com/). The Million Song Dataset is a freely-available collection of audio features and metadata for a million contemporary popular music tracks. The goal is to recommend songs to users based on their preferences. Provided by the Echo Nest, this dataset is a collaboration between LabROSA (Columbia University) and The Echo Nest.
 
 - [LastFM](https://grouplens.org/datasets/hetrec-2011/). The dataset contains social networking, tagging, and music artist listening information from a set of 2K users from Last.fm online music system. The goal is to recommend music artists to users based on their preferences.
+
+# Background
+
+![alt text](image.png)
