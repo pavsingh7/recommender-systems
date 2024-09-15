@@ -41,3 +41,7 @@ Some popular datasets that have been made available in this repository are:
 - [Steam](https://cseweb.ucsd.edu/~jmcauley/datasets.html#steam_data). The dataset contains reviews from the Steam video game platform, and information about which games were bundled together. The goal is to recommend video games to users based on their preferences.
 
 - [MIND](https://msnews.github.io/). MIND is one of the public dataset that Microsoft release for machine learning community. The dataset contains news articles and user interactions from the Microsoft News platform. The goal is to recommend news articles to users based on their preferences.
+
+- [Million Song Dataset](http://millionsongdataset.com/). The Million Song Dataset is a freely-available collection of audio features and metadata for a million contemporary popular music tracks. The goal is to recommend songs to users based on their preferences. Provided by the Echo Nest, this dataset is a collaboration between LabROSA (Columbia University) and The Echo Nest.
+
+- [LastFM](https://grouplens.org/datasets/hetrec-2011/). The dataset contains social networking, tagging, and music artist listening information from a set of 2K users from Last.fm online music system. The goal is to recommend music artists to users based on their preferences.
