@@ -4,4 +4,12 @@ This repository contains a collection of resources all pertaining to the topic o
 
 # Recommenders
 
-1. User-Based Collaborative Filtering [ubcf_recsys.ipynb](https://github.com/pavsingh7/recommender-systems/blob/main/recommenders/ubcf_recsys.ipynb)
+All can be found [here](https://github.com/pavsingh7/recommender-systems/blob/main/recommenders/).
+
+- User-Based Collaborative Filtering ([ubcf_recsys.ipynb](https://github.com/pavsingh7/recommender-systems/blob/main/recommenders/ubcf_recsys.ipynb))
+- Item-Based Collaborative Filtering ([ibcf_recsys.ipynb](https://github.com/pavsingh7/recommender-systems/blob/main/recommenders/ibcf_recsys.ipynb))
+- SVD Matrix Factorization ([svd_recsys.ipynb](https://github.com/pavsingh7/recommender-systems/blob/main/recommenders/svd_recsys.ipynb))
+- Keyword Content-Based Filtering ([content_recsys.ipynb](https://github.com/pavsingh7/recommender-systems/blob/main/recommenders/content_recsys.ipynb))
+- Neural Collaborative Filtering ([ncf_recsys.ipynb](https://github.com/pavsingh7/recommender-systems/blob/main/recommenders/ncf_recsys.ipynb))
+- Alternating Least Squares ([als_recsys.ipynb](https://github.com/pavsingh7/recommender-systems/blob/main/recommenders/als_recsys.ipynb))
+- Deep Matrix Factorization ([dmf_recsys.ipynb](https://github.com/pavsingh7/recommender-systems/blob/main/recommenders/dmf_recsys.ipynb))
