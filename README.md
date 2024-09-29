@@ -27,7 +27,6 @@ A lot of the datasets are sourced from the following repositories:
 - https://github.com/RUCAIBox/RecSysDatasets
 - https://paperswithcode.com/datasets?task=recommendation-systems
 
-
 Some popular datasets that have been made available or used in this repository are:
 
 - [MovieLens Dataset](https://grouplens.org/datasets/movielens/). The goal of this dataset is to recommend movies to users based on their preferences. It contains explicit feedback in the form of ratings given by users to movies. There are various types of movielens dataset such as Movielens 1M, 20M, and 25M which means millions interactions between users and movies.
@@ -46,6 +45,6 @@ Some popular datasets that have been made available or used in this repository a
 
 - [LastFM](https://grouplens.org/datasets/hetrec-2011/). The dataset contains social networking, tagging, and music artist listening information from a set of 2K users from Last.fm online music system. The goal is to recommend music artists to users based on their preferences.
 
-# Background
+# Background on RecSys
 
 ![alt text](image.png)
