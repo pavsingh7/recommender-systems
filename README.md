@@ -45,6 +45,5 @@ Some popular datasets that have been made available or used in this repository a
 
 - [LastFM](https://grouplens.org/datasets/hetrec-2011/). The dataset contains social networking, tagging, and music artist listening information from a set of 2K users from Last.fm online music system. The goal is to recommend music artists to users based on their preferences.
 
-# Background on RecSys
+# Research Papers & Articles
 
-![alt text](image.png)
